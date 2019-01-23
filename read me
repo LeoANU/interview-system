@@ -1,1 +1,11 @@
-This is
+Recruit System – contains recruit process for internal use. 
+            •           The system should allow user to register (or single sign on) and login
+            •           Admin can upload the resume of candidate.
+            •           Admin can initial an interview process, who will be the first interviewer , who will be the second, what’s the time to do interview, can generate the meeting request with outlook.
+            •           Interviewer can comment on the candidate and route the resume to next candidate. The next candidate should get the notification.
+            •           The last interviewer can complete the whole process.
+            •           Search.
+            •           Reporting.
+Tech Stack
+            •           Ruby or Java or whatever you familiar + Javascript whatever you prefer.
+            •           Database – MySQL.
